@@ -1,314 +1,1983 @@
 {
-    "Игровой_Ноутбук_MSI/Asus/Acer/HP_1_год_Гарантии": {
-        "time": "вчера в 18:03",
-        "price": "",
-        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msiasusacerhp_1_god_garantii_2202354231"
-    },
-    "Apple_MacBook_Pro_13_2020_m1_8Gb_256Gb": {
-        "time": "сегодня в 11:03",
-        "price": "",
+    "item_0": {
+        "title": "Apple_MacBook_Pro_13_2020_m1_8Gb_256Gb",
+        "time": "вчера в 12:03",
+        "price": "159 999 ₽",
         "seller_name": "LAPTOPS-CENTRE",
         "link": "https://www.avito.ru/krasnodar/noutbuki/apple_macbook_pro_13_2020_m1_8gb_256gb_2355239157"
     },
-    "Игровые_ноутбуки_б/у_MSI_asus_dell_i7_i5_i3": {
-        "time": "сегодня в 12:48",
-        "price": "",
-        "seller_name": "LAPTOPS-CENTRE",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_bu_msi_asus_dell_i7_i5_i3_2195198949"
-    },
-    "Игровые_/_Офисные_ноутбуки_б/у_Acer_Dell_i3_i5_i7": {
-        "time": "сегодня в 12:48",
-        "price": "",
-        "seller_name": "LAPTOPS-CENTRE",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_ofisnye_noutbuki_bu_acer_dell_i3_i5_i7_2195620930"
-    },
-    "Игровые_и_офисные_ноутбуки_/_Гарантия_/_Рассрочка": {
-        "time": "сегодня в 14:04",
-        "price": "",
+    "item_1": {
+        "title": "Игровые_и_офисные_ноутбуки_/_Гарантия_/_Рассрочка",
+        "time": "вчера в 09:54",
+        "price": "13 990 ₽",
         "seller_name": "LAPTOPS-CENTRE",
         "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_i_ofisnye_noutbuki_garantiya_rassrochka_2163285530"
     },
-    "Ноутбук_MSI_Core_i7_1185G7_RTX2060_144Hz": {
-        "time": "сегодня в 11:21",
-        "price": "",
-        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_core_i7_1185g7_rtx2060_144hz_2355282400"
+    "item_2": {
+        "title": "Игровые_ноутбуки_б/у_MSI_asus_dell_i7_i5_i3",
+        "time": "вчера в 12:53",
+        "price": "4 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_bu_msi_asus_dell_i7_i5_i3_2195198949"
     },
-    "Msi_gp66_leopard": {
+    "item_3": {
+        "title": "Игровые_/_Офисные_ноутбуки_б/у_Acer_Dell_i3_i5_i7",
+        "time": "вчера в 14:56",
+        "price": "9 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_ofisnye_noutbuki_bu_acer_dell_i3_i5_i7_2195620930"
+    },
+    "item_4": {
+        "title": "Игровой_Ноутбук_MSI/Asus/Acer/HP_1_год_Гарантии",
+        "time": "12 марта в 18:03",
+        "price": "39 900 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msiasusacerhp_1_god_garantii_2202354231"
+    },
+    "item_5": {
+        "title": "Msi_gp66_leopard",
         "time": "9 марта в 16:21",
-        "price": "",
+        "price": "240 000 ₽",
         "seller_name": "Руслан_Гетманов",
         "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gp66_leopard_2350732048"
     },
-    "Ноутбук_msi_gf_75_thin_9scsr-608ru": {
-        "time": "сегодня в 15:08",
-        "price": "",
-        "seller_name": "Александр_Скажутин",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf_75_thin_9scsr-608ru_2352117618"
+    "item_6": {
+        "title": "MSI-Asus_с_RTX_3060",
+        "time": "вчера в 16:07",
+        "price": "168 000 ₽",
+        "seller_name": "Алексей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi-asus_s_rtx_3060_2286708726"
     },
-    "Ноутбук_MSI_GF65_Thin(9sexr-607XRU)": {
-        "time": "вчера в 14:05",
-        "price": "",
-        "seller_name": "Andrey_Sherstyuk",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf65_thin9sexr-607xru_2291689785"
+    "item_7": {
+        "title": "MSI_Katana_GF66_11UG-083RU",
+        "time": "вчера в 16:55",
+        "price": "200 000 ₽",
+        "seller_name": "Виталий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_katana_gf66_11ug-083ru_2352317200"
     },
-    "Игровые_ноутбуки_Core_i3_/_i5_/_i7_(Большой_выбор)": {
-        "time": "сегодня в 13:49",
-        "price": "",
-        "seller_name": "Cxembook",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_core_i3_i5_i7_bolshoy_vybor_2182437008"
+    "item_8": {
+        "title": "Новый_игровой_MSI_MS-1581",
+        "time": "вчера в 16:37",
+        "price": "189 990 ₽",
+        "seller_name": "Станислав",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/novyy_igrovoy_msi_ms-1581_2340538216"
     },
-    "Ноутбук_Asus_Для_Игр_i7_i5": {
-        "time": "вчера в 17:51",
-        "price": "",
+    "item_9": {
+        "title": "Ноутбук_Asus_Для_Игр_i7_i5",
+        "time": "вчера в 18:31",
+        "price": "17 490 ₽",
         "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
         "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_dlya_igr_i7_i5_1906955736"
     },
-    "Ноутбук_msi": {
-        "time": "сегодня в 13:46",
-        "price": "",
-        "seller_name": "Альбина_Павленко",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_2206861175"
+    "item_10": {
+        "title": "Игровые_ноутбуки_Core_i3_/_i5_/_i7_(Большой_выбор)",
+        "time": "вчера в 09:54",
+        "price": "17 000 ₽",
+        "seller_name": "Cxembook",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_core_i3_i5_i7_bolshoy_vybor_2182437008"
     },
-    "MSI": {
-        "time": "8 марта в 17:54",
-        "price": "",
-        "seller_name": "Дарья_Великая",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_2343713455"
+    "item_11": {
+        "title": "Игровые_ноутбуки_б/у_MSI_asus_dell_i7_i5_i3",
+        "time": "вчера в 12:53",
+        "price": "4 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_bu_msi_asus_dell_i7_i5_i3_2195198949"
     },
-    "Игровой_ноутбук_msi_gx60": {
-        "time": "11 марта в 21:07",
-        "price": "",
-        "seller_name": "Никита",
-        "link": "https://www.avito.ru/anapa/noutbuki/igrovoy_noutbuk_msi_gx60_2336498827"
+    "item_12": {
+        "title": "Ноутбук_MSI",
+        "time": "вчера в 13:06",
+        "price": "10 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/novodmitrievskaya/noutbuki/noutbuk_msi_2286496963"
     },
-    "MSI_GL63_8RD": {
-        "time": "сегодня в 13:46",
-        "price": "",
+    "item_13": {
+        "title": "Ноутбук_MSI",
+        "time": "вчера в 12:13",
+        "price": "35 000 ₽",
+        "seller_name": "Андрей_Хасанович",
+        "link": "https://www.avito.ru/sochi/noutbuki/noutbuk_msi_2344241383?slocation=633540"
+    },
+    "item_14": {
+        "title": "MSI_gx600_старый_игровой_ноутбук",
+        "time": "вчера в 08:49",
+        "price": "4 400 ₽",
+        "seller_name": "Пользователь",
+        "link": "https://www.avito.ru/novorossiysk/noutbuki/msi_gx600_staryy_igrovoy_noutbuk_2364938551?slocation=633540"
+    },
+    "item_15": {
+        "title": "Игровой_ноутбук_msi",
+        "time": "вчера в 16:48",
+        "price": "130 000 ₽",
+        "seller_name": "Виктория",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2366885245"
+    },
+    "item_16": {
+        "title": "MSI_GT62_i7_6820HK_/_1070/_4k",
+        "time": "13 марта в 21:05",
+        "price": "70 000 ₽",
+        "seller_name": "Артем",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gt62_i7_6820hk_1070_4k_2361057319"
+    },
+    "item_17": {
+        "title": "Ноутбук_MSI_GF65_Thin(9sexr-607XRU)",
+        "time": "12 марта в 14:05",
+        "price": "67 000 ₽",
+        "seller_name": "Andrey_Sherstyuk",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf65_thin9sexr-607xru_2291689785"
+    },
+    "item_18": {
+        "title": "Игровые_/_Офисные_ноутбуки_б/у_Acer_Dell_i3_i5_i7",
+        "time": "вчера в 14:56",
+        "price": "9 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_ofisnye_noutbuki_bu_acer_dell_i3_i5_i7_2195620930"
+    },
+    "item_19": {
+        "title": "Msi_gp66_leopard",
+        "time": "9 марта в 16:21",
+        "price": "240 000 ₽",
+        "seller_name": "Руслан_Гетманов",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gp66_leopard_2350732048"
+    },
+    "item_20": {
+        "title": "Ноутбук_Acer_Ryzen_5_3500u_SSD_512Gb_FullHD",
+        "time": "вчера в 17:44",
+        "price": "44 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_ryzen_5_3500u_ssd_512gb_fullhd_2355310224"
+    },
+    "item_21": {
+        "title": "MSI_Core_i3",
+        "time": "14 марта в 18:36",
+        "price": "14 999 ₽",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_core_i3_2359867201"
+    },
+    "item_22": {
+        "title": "MSI_GL63_8RD",
+        "time": "13 марта в 13:46",
+        "price": "70 000 ₽",
         "seller_name": "Продавец",
         "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gl63_8rd_2299519090"
     },
-    "Ноутбук_MSI_gp_72_20e_Leopard_Pro": {
-        "time": "вчера в 11:38",
-        "price": "",
+    "item_23": {
+        "title": "Ноутбук_MSI_GL62_6QD-028RU",
+        "time": "вчера в 18:22",
+        "price": "42 900 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gl62_6qd-028ru_2170855512"
+    },
+    "item_24": {
+        "title": "Ноутбук_MSI_Core_i7_1185G7_RTX2060_144Hz",
+        "time": "14 марта в 21:04",
+        "price": "119 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_core_i7_1185g7_rtx2060_144hz_2355282400"
+    },
+    "item_25": {
+        "title": "Ноутбук_MSI_GP62M_7REX(Leopard_Pro)_-1670XRU,_15.6",
+        "time": "14 марта в 14:05",
+        "price": "65 500 ₽",
+        "seller_name": "Юрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gp62m_7rexleopard_pro_-1670xru_15.6_2385751713"
+    },
+    "item_26": {
+        "title": "Ноутбук_MSI_GL62_6QE-1698RU",
+        "time": "13 марта в 16:26",
+        "price": "39 900 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gl62_6qe-1698ru_2202765678"
+    },
+    "item_27": {
+        "title": "Ноутбук_MSI_gp_72_20e_Leopard_Pro",
+        "time": "12 марта в 11:38",
+        "price": "40 000 ₽",
         "seller_name": "Кирилл_Россман",
         "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gp_72_20e_leopard_pro_2335535746"
     },
-    "Игровые_ноутбуки_Core_i3_/_i5_/_i7_(Подбор_)": {
-        "time": "сегодня в 13:49",
-        "price": "",
-        "seller_name": "Cxembook",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_core_i3_i5_i7_podbor_1958423532"
+    "item_28": {
+        "title": "MSI",
+        "time": "8 марта в 17:54",
+        "price": "2 500 ₽",
+        "seller_name": "Дарья_Великая",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_2343713455"
     },
-    "Ноутбук_i7_i5_Для_Любых_Задач": {
-        "time": "сегодня в 10:46",
-        "price": "",
-        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_i7_i5_dlya_lyubyh_zadach_1906943324"
+    "item_29": {
+        "title": "Ноутбук_msi",
+        "time": "13 марта в 13:46",
+        "price": "6 000 ₽",
+        "seller_name": "Альбина_Павленко",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_2206861175"
     },
-    "Ноутбук_MSI_с_установленным_Exocad_7754": {
+    "item_30": {
+        "title": "Игровой_ноутбук_msi",
+        "time": "6 марта в 16:43",
+        "price": "45 000 ₽",
+        "seller_name": "Маргарита",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2365654903"
+    },
+    "item_31": {
+        "title": "Ноутбук_MSI_с_установленным_Exocad_7754",
         "time": "9 марта в 17:18",
-        "price": "",
+        "price": "110 000 ₽",
         "seller_name": "Александр",
         "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_s_ustanovlennym_exocad_7754_2322415554"
     },
-    "Игровой_ноутбук_MSI,_полный_комплект,_в_идеале": {
-        "time": "вчера в 11:10",
-        "price": "",
+    "item_32": {
+        "title": "Игровой_ноутбук_MSI,_полный_комплект,_в_идеале",
+        "time": "12 марта в 11:10",
+        "price": "Цена не указана",
         "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
         "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_polnyy_komplekt_v_ideale_2328662236"
     },
-    "Игровой_ноутбук_msi": {
-        "time": "6 марта в 11:46",
-        "price": "",
-        "seller_name": "Станислав",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2303192939"
-    },
-    "Msi_ge60": {
-        "time": "8 марта в 17:41",
-        "price": "",
-        "seller_name": "Андрей_Демиденко",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge60_2240009413"
-    },
-    "Игровой_ноутбук_MSI_Sword_15_A11UE-212XRU,_15.6\"": {
-        "time": "10 марта в 13:02",
-        "price": "",
-        "seller_name": "Ольга",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_sword_15_a11ue-212xru_15.6_2354310480"
-    },
-    "MSI_GF63_Thin_11UC-218XRU_MS-16R6_чёрный": {
-        "time": "вчера в 16:51",
-        "price": "",
-        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gf63_thin_11uc-218xru_ms-16r6_chernyy_2289996080"
-    },
-    "Игровой_ноутбук_MSI_полный_комплект": {
-        "time": "10 марта в 23:04",
-        "price": "",
-        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_polnyy_komplekt_2359976389"
-    },
-    "MSI_15.6_i5-2540m_/GT520m_1gb_/4озу": {
-        "time": "вчера в 10:14",
-        "price": "",
-        "seller_name": "Дмитрий",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6_i5-2540m_gt520m_1gb_4ozu_2315758779"
-    },
-    "Ноутбук_MSI_CX500": {
-        "time": "11 марта в 18:26",
-        "price": "",
-        "seller_name": "Лютая_Скупка",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_cx500_2330421000"
-    },
-    "MSI_Modern_15_A11SBL-453XRU_MS-1552_серый": {
-        "time": "вчера в 12:36",
-        "price": "",
-        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_modern_15_a11sbl-453xru_ms-1552_seryy_2257932578"
-    },
-    "Ноутбук_MSI_GF65": {
-        "time": "17 февраля в 14:42",
-        "price": "",
-        "seller_name": "Константин",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf65_2339068569"
-    },
-    "MSI_GL62": {
+    "item_33": {
+        "title": "MSI_GL62",
         "time": "3 марта в 09:49",
-        "price": "",
+        "price": "40 000 ₽",
         "seller_name": "Петр",
         "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gl62_2330904518"
     },
-    "Новый_топовый_игровой_ноутбук_MSI_GF75_Thin": {
-        "time": "11 марта в 16:32",
-        "price": "",
+    "item_34": {
+        "title": "Мощный_игровой_ноутбук_с_большим_экраном_MSI_GV72",
+        "time": "14 марта в 17:28",
+        "price": "79 900 ₽",
         "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/novyy_topovyy_igrovoy_noutbuk_msi_gf75_thin_2234716155"
+        "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_igrovoy_noutbuk_s_bolshim_ekranom_msi_gv72_2266762936"
     },
-    "Msi_megabook_L720": {
-        "time": "10 марта в 10:47",
-        "price": "",
-        "seller_name": "Алексей",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_megabook_l720_2131668849"
+    "item_35": {
+        "title": "Ноутбук_msi_ge70",
+        "time": "8 марта в 17:41",
+        "price": "33 000 ₽",
+        "seller_name": "Андрей_Демиденко",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_ge70_2240009413"
     },
-    "MSI_GT683_игровой_/_графическая_станция": {
-        "time": "9 марта в 16:04",
-        "price": "",
-        "seller_name": "Влад",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gt683_igrovoy_graficheskaya_stantsiya_2272151527"
+    "item_36": {
+        "title": "Ноутбук_MSI_GF65",
+        "time": "17 февраля в 14:42",
+        "price": "112 000 ₽",
+        "seller_name": "Константин",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf65_2339068569"
     },
-    "Ультрабук_MSI_Prestige_15_i7-10710U_GTX_1650_16GB": {
+    "item_37": {
+        "title": "Продам_новый_ноутбук_MSI_Sword_15",
+        "time": "13 марта в 20:33",
+        "price": "125 000 ₽",
+        "seller_name": "Александр",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/prodam_novyy_noutbuk_msi_sword_15_2351487350"
+    },
+    "item_38": {
+        "title": "Ультрабук_MSI_Prestige_15_i7-10710U_GTX_1650_16GB",
         "time": "5 марта в 19:42",
-        "price": "",
+        "price": "110 000 ₽",
         "seller_name": "Денис",
         "link": "https://www.avito.ru/krasnodar/noutbuki/ultrabuk_msi_prestige_15_i7-10710u_gtx_1650_16gb_2258505681"
     },
-    "Надежный_MSI": {
-        "time": "6 марта в 22:18",
-        "price": "",
-        "seller_name": "Михаил",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/nadezhnyy_msi_2340161000"
+    "item_39": {
+        "title": "Игровой_ноутбук_msi_gf75_Thin_10scxr_17,3_i7",
+        "time": "вчера в 13:08",
+        "price": "265 000 ₽",
+        "seller_name": "Ирина",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_gf75_thin_10scxr_173_i7_2353883173"
     },
-    "Мощный_Ноут_MSI_Apache_i5_4200,ssd_240_GTX_850_2_Г": {
-        "time": "7 марта в 14:25",
-        "price": "",
-        "seller_name": "PC.nеТ",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_nout_msi_apache_i5_4200ssd_240_gtx_850_2_g_2346099207"
+    "item_40": {
+        "title": "MSI_GT683_игровой_/_графическая_станция",
+        "time": "9 марта в 16:04",
+        "price": "40 000 ₽",
+        "seller_name": "Влад",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gt683_igrovoy_graficheskaya_stantsiya_2272151527"
     },
-    "Мощный_MSI_17.3\"_144Гц,_i5-10500H,_GTX1650_4GB": {
+    "item_41": {
+        "title": "Игровой_ноутбук_MSI_полный_комплект",
+        "time": "10 марта в 23:04",
+        "price": "75 000 ₽",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_polnyy_komplekt_2359976389"
+    },
+    "item_42": {
+        "title": "Мощный_MSI_17.3\"_144Гц,_i5-10500H,_GTX1650_4GB",
         "time": "9 марта в 19:32",
-        "price": "",
+        "price": "85 000 ₽",
         "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
         "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_msi_17.3_144gts_i5-10500h_gtx1650_4gb_2328521029"
     },
-    "Ноутбук_msi_бу": {
-        "time": "10 марта в 13:16",
-        "price": "",
-        "seller_name": "Мила",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_bu_2252325442"
+    "item_43": {
+        "title": "Игровой_ноутбук_msi",
+        "time": "6 марта в 11:46",
+        "price": "65 000 ₽",
+        "seller_name": "Станислав",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2303192939"
     },
-    "17.3\"_Ноутбук_MSI_GF75_9scsr-454XRU": {
+    "item_44": {
+        "title": "Новый_топовый_игровой_ноутбук_MSI_GF75_Thin",
+        "time": "11 марта в 16:32",
+        "price": "72 990 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/novyy_topovyy_igrovoy_noutbuk_msi_gf75_thin_2234716155"
+    },
+    "item_45": {
+        "title": "Игровой_ноутбук_MSI_i7/8/1Тб_1050",
+        "time": "7 марта в 14:58",
+        "price": "44 990 ₽",
+        "seller_name": "iRICH_Krasnodar",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_i781tb_1050_2250253692"
+    },
+    "item_46": {
+        "title": "17.3\"_Ноутбук_MSI_GF75_9scsr-454XRU",
         "time": "11 марта в 08:06",
-        "price": "",
+        "price": "90 000 ₽",
         "seller_name": "Юрий",
         "link": "https://www.avito.ru/krasnodar/noutbuki/17.3_noutbuk_msi_gf75_9scsr-454xru_2245763775"
     },
-    "MSI_Prestige_15_A11SC-013RU_MS-16S7_серый": {
-        "time": "вчера в 12:35",
-        "price": "",
-        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_prestige_15_a11sc-013ru_ms-16s7_seryy_2257929027"
-    },
-    "MSI_Modern_15_A11SBU-659XRU_MS-1552_серый": {
-        "time": "вчера в 12:36",
-        "price": "",
-        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_modern_15_a11sbu-659xru_ms-1552_seryy_2258533146"
-    },
-    "MSI_GE70_2PE-281RU_Apache_Pro": {
-        "time": "9 марта в 00:47",
-        "price": "",
+    "item_47": {
+        "title": "Msi_megabook_L720",
+        "time": "10 марта в 10:47",
+        "price": "1 000 ₽",
         "seller_name": "Алексей",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge70_2pe-281ru_apache_pro_1256099667"
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_megabook_l720_2131668849"
     },
-    "MSI_15.6_i5-2540m_4X_3,30_GHz/GT520m_128bit/4озу": {
-        "time": "9 марта в 14:09",
-        "price": "",
-        "seller_name": "Дмитрий",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6_i5-2540m_4x_330_ghzgt520m_128bit4ozu_2315589089"
+    "item_48": {
+        "title": "Надежный_MSI",
+        "time": "6 марта в 22:18",
+        "price": "6 500 ₽",
+        "seller_name": "Михаил",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/nadezhnyy_msi_2340161000"
     },
-    "17.3\"_Ноутбук_MSI_GL75_i5_1660_Ti": {
-        "time": "6 марта в 15:01",
-        "price": "",
-        "seller_name": "Игорь",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/17.3_noutbuk_msi_gl75_i5_1660_ti_2323375624"
-    },
-    "MSI_GE62MVR_7RG_Apache_Pro": {
-        "time": "28 февраля в 20:45",
-        "price": "",
-        "seller_name": "Александр",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge62mvr_7rg_apache_pro_2347086559"
-    },
-    "Msi_gx60": {
-        "time": "6 марта в 20:39",
-        "price": "",
-        "seller_name": "Виталий",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gx60_2295460026"
-    },
-    "Игровой_ноутбук_msi_GF75": {
+    "item_49": {
+        "title": "Игровой_ноутбук_msi_GF75",
         "time": "25 февраля в 00:48",
-        "price": "",
+        "price": "130 000 ₽",
         "seller_name": "Егор",
         "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_gf75_2323504090"
     },
-    "Нетбук_msi": {
-        "time": "9 марта в 19:06",
-        "price": "",
-        "seller_name": "Пользовател",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/netbuk_msi_2326057665"
+    "item_50": {
+        "title": "MSI_в_отличном_состоянии,_коробка",
+        "time": "16 февраля в 13:29",
+        "price": "12 000 ₽",
+        "seller_name": "Евгений",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_v_otlichnom_sostoyanii_korobka_2360470443"
     },
-    "Игровой_ноутбук_MSI_PE70_6QD": {
-        "time": "10 марта в 15:36",
-        "price": "",
-        "seller_name": "Наталия",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_pe70_6qd_2198679737"
+    "item_51": {
+        "title": "Msi_gx60",
+        "time": "6 марта в 20:39",
+        "price": "25 000 ₽",
+        "seller_name": "Виталий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gx60_2295460026"
     },
-    "Ноутбук_MSI_Stealth_i7_A11SEK-205RU": {
-        "time": "17 февраля в 13:50",
-        "price": "",
-        "seller_name": "Недвижимость",
-        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_stealth_i7_a11sek-205ru_2330865395"
+    "item_52": {
+        "title": "Ноутбук_MSI_GF75_Thin_9scsr-452RU",
+        "time": "19 февраля в 16:05",
+        "price": "77 990 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gf75_thin_9scsr-452ru_2170123620"
     },
-    "MSI_игровой_i7-8750H,_32Гб,_SSD,_RTX2080_8GB": {
+    "item_53": {
+        "title": "Игровой_ноутбук_msi",
+        "time": "12 марта в 18:20",
+        "price": "45 000 ₽",
+        "seller_name": "Юрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2369931696"
+    },
+    "item_54": {
+        "title": "MSI_GF63_Thin_11UC-218XRU_MS-16R6_чёрный",
+        "time": "12 марта в 16:51",
+        "price": "156 990 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_gf63_thin_11uc-218xru_ms-16r6_chernyy_2289996080"
+    },
+    "item_55": {
+        "title": "17.3\"_Ноутбук_MSI_GL75_i5_1660_Ti",
+        "time": "6 марта в 15:01",
+        "price": "105 000 ₽",
+        "seller_name": "Игорь",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/17.3_noutbuk_msi_gl75_i5_1660_ti_2323375624"
+    },
+    "item_56": {
+        "title": "Ноутбук_msi_бу",
+        "time": "10 марта в 13:16",
+        "price": "3 300 ₽",
+        "seller_name": "Мила",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_bu_2252325442"
+    },
+    "item_57": {
+        "title": "MSI_15.6_i5-2540m_/GT520m_1gb_/4озу",
+        "time": "12 марта в 10:14",
+        "price": "16 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6_i5-2540m_gt520m_1gb_4ozu_2315758779"
+    },
+    "item_58": {
+        "title": "Ноутбук_MSI_CX500",
+        "time": "11 марта в 18:26",
+        "price": "6 000 ₽",
+        "seller_name": "Лютая_Скупка",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_cx500_2330421000"
+    },
+    "item_59": {
+        "title": "MSI_игровой_i7-8750H,_32Гб,_SSD,_RTX2080_8GB",
         "time": "28 февраля в 10:03",
-        "price": "",
+        "price": "199 999 ₽",
         "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
         "link": "https://www.avito.ru/krasnodar/noutbuki/msi_igrovoy_i7-8750h_32gb_ssd_rtx2080_8gb_2296619305"
     },
-    "Топовый_игровой_ноутбук_MSI_GF63_/_i7_/_512_SSD": {
-        "time": "сегодня в 10:57",
-        "price": "",
+    "item_60": {
+        "title": "MSI_Modern_15_A11SBL-453XRU_MS-1552_серый",
+        "time": "12 марта в 12:36",
+        "price": "195 990 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_modern_15_a11sbl-453xru_ms-1552_seryy_2257932578"
+    },
+    "item_61": {
+        "title": "MSI_GE70_2PE-281RU_Apache_Pro",
+        "time": "9 марта в 00:47",
+        "price": "50 000 ₽",
+        "seller_name": "Алексей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge70_2pe-281ru_apache_pro_1256099667"
+    },
+    "item_62": {
+        "title": "Игровой_ноутбук_MSI_gp62m_7REX_Leopard_pro",
+        "time": "7 марта в 22:14",
+        "price": "60 000 ₽",
+        "seller_name": "Амир",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_gp62m_7rex_leopard_pro_2311455638"
+    },
+    "item_63": {
+        "title": "Игровой_ноутбук_MSI_PE70_6QD",
+        "time": "10 марта в 15:36",
+        "price": "50 000 ₽",
+        "seller_name": "Наталия",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_pe70_6qd_2198679737"
+    },
+    "item_64": {
+        "title": "MSI_15.6_i5-2540m_4X_3,30_GHz/GT520m_128bit/4озу",
+        "time": "9 марта в 14:09",
+        "price": "16 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6_i5-2540m_4x_330_ghzgt520m_128bit4ozu_2315589089"
+    },
+    "item_65": {
+        "title": "MSI_15.6_i5-2540m_4X_3,30_GHz/GT520m_128bit/4озу",
+        "time": "10 марта в 15:06",
+        "price": "16 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6_i5-2540m_4x_330_ghzgt520m_128bit4ozu_2315477445"
+    },
+    "item_66": {
+        "title": "Ноутбук_для_ультрагейминга_MSI_GF75_Thin_9scsr-452",
+        "time": "8 марта в 15:49",
+        "price": "77 990 ₽",
+        "seller_name": "ИНТРО_-_Ноутбуки_из_Европы",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dlya_ultrageyminga_msi_gf75_thin_9scsr-452_2176477000"
+    },
+    "item_67": {
+        "title": "MSI_GE62MVR_7RG_Apache_Pro",
+        "time": "28 февраля в 20:45",
+        "price": "90 000 ₽",
+        "seller_name": "Александр",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge62mvr_7rg_apache_pro_2347086559"
+    },
+    "item_68": {
+        "title": "Игровой_Ноутбук_MSI/Asus/Acer/HP_1_год_Гарантии",
+        "time": "12 марта в 18:03",
+        "price": "39 900 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msiasusacerhp_1_god_garantii_2202354231"
+    },
+    "item_69": {
+        "title": "Ноутбук_HP_Core_i5_1035G1_SSD_512Gb_13.3\"",
+        "time": "вчера в 18:56",
+        "price": "54 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_core_i5_1035g1_ssd_512gb_13.3_2355416551"
+    },
+    "item_70": {
+        "title": "Игровые_и_офисные_ноутбуки_/_Гарантия_/_Рассрочка",
+        "time": "вчера в 09:54",
+        "price": "13 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_i_ofisnye_noutbuki_garantiya_rassrochka_2163285530"
+    },
+    "item_71": {
+        "title": "MSI_Modern_15_A11SBU-659XRU_MS-1552_серый",
+        "time": "12 марта в 12:36",
+        "price": "151 300 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_modern_15_a11sbu-659xru_ms-1552_seryy_2258533146"
+    },
+    "item_72": {
+        "title": "Супер_игровой_ноутбук_MSI_GF75_Thin_9scsr-452RU",
+        "time": "8 марта в 15:49",
+        "price": "77 990 ₽",
+        "seller_name": "ИНТРО_-_Ноутбуки_из_Европы",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/super_igrovoy_noutbuk_msi_gf75_thin_9scsr-452ru_2176383427"
+    },
+    "item_73": {
+        "title": "Нетбук_msi",
+        "time": "9 марта в 19:06",
+        "price": "6 000 ₽",
+        "seller_name": "Пользовател",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/netbuk_msi_2326057665"
+    },
+    "item_74": {
+        "title": "Ноутбук_MSI_CX70_2QF_(MS-1758)_(2QF-603XRU)",
+        "time": "2 марта в 00:49",
+        "price": "35 000 ₽",
+        "seller_name": "Максим",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_cx70_2qf_ms-1758_2qf-603xru_2315834771"
+    },
+    "item_75": {
+        "title": "Apple_MacBook_Pro_13_2020_m1_8Gb_256Gb",
+        "time": "вчера в 12:03",
+        "price": "159 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/apple_macbook_pro_13_2020_m1_8gb_256gb_2355239157"
+    },
+    "item_76": {
+        "title": "Ноутбук_для_игр_бу_Asus_HP_i7_i5_i3",
+        "time": "вчера в 17:43",
+        "price": "18 490 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dlya_igr_bu_asus_hp_i7_i5_i3_2163480094"
+    },
+    "item_77": {
+        "title": "Ноутбук_i7_i5_Для_Любых_Задач",
+        "time": "вчера в 10:45",
+        "price": "17 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_i7_i5_dlya_lyubyh_zadach_1906943324"
+    },
+    "item_78": {
+        "title": "MSI",
+        "time": "4 марта в 19:08",
+        "price": "1 500 ₽",
+        "seller_name": "Сергей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_1434885482"
+    },
+    "item_79": {
+        "title": "Игровой_ноутбук_MSI_16GH",
+        "time": "15 февраля в 12:07",
+        "price": "400 ₽",
+        "seller_name": "Татьяна",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_16gh_2354061351"
+    },
+    "item_80": {
+        "title": "Ноутбук_MSI",
+        "time": "3 марта в 13:03",
+        "price": "3 000 ₽",
+        "seller_name": "Анна_Стоянова",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_1788662250"
+    },
+    "item_81": {
+        "title": "MSI_Prestige_15_A11SC-013RU_MS-16S7_серый",
+        "time": "12 марта в 12:35",
+        "price": "160 200 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_prestige_15_a11sc-013ru_ms-16s7_seryy_2257929027"
+    },
+    "item_82": {
+        "title": "Мощный_MSI_i7-9750H,_SSd500GB,_GTX1650_Max-Q",
+        "time": "28 февраля в 09:32",
+        "price": "75 000 ₽",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_msi_i7-9750h_ssd500gb_gtx1650_max-q_2328518628"
+    },
+    "item_83": {
+        "title": "Ноутбук_MSI_GL72_6QD",
+        "time": "28 февраля в 17:06",
+        "price": "46 900 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_gl72_6qd_2170403635"
+    },
+    "item_84": {
+        "title": "Игровой_MSI_17.3\",_Core_i5-10500H,_GeForce_GTX1650",
+        "time": "4 марта в 01:08",
+        "price": "85 000 ₽",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_msi_17.3_core_i5-10500h_geforce_gtx1650_2360760767"
+    },
+    "item_85": {
+        "title": "MSI_GE62_2QD_Apache",
+        "time": "18 февраля в 14:50",
+        "price": "42 000 ₽",
+        "seller_name": "Dmitriy_Melnik",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge62_2qd_apache_2173216005"
+    },
+    "item_86": {
+        "title": "Нетбук_msi_l1350d_на_запчасти",
+        "time": "9 марта в 16:04",
+        "price": "1 500 ₽",
+        "seller_name": "Григорий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/netbuk_msi_l1350d_na_zapchasti_2026297427"
+    },
+    "item_87": {
+        "title": "MSI-NL_Eindhoven_5706_5692_ER_son",
+        "time": "22 февраля в 12:31",
+        "price": "77 500 ₽",
+        "seller_name": "Владимир",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi-nl_eindhoven_5706_5692_er_son_2271305893"
+    },
+    "item_88": {
+        "title": "Ноутбук_msi_cx640_на_i3",
+        "time": "23 февраля в 00:30",
+        "price": "8 000 ₽",
+        "seller_name": "Тимофей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_cx640_na_i3_2332364508"
+    },
+    "item_89": {
+        "title": "Игровой_ноутбук_MSI_GT72_Dominator_Pro_Dragon_Edit",
+        "time": "4 марта в 11:01",
+        "price": "1 ₽ 80 000 ₽",
+        "seller_name": "Константин_Высочин",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_gt72_dominator_pro_dragon_edit_2378677844"
+    },
+    "item_90": {
+        "title": "Топовый_игровой_ноутбук_MSI_GL72_6QD",
+        "time": "8 марта в 15:49",
+        "price": "46 900 ₽",
+        "seller_name": "ИНТРО_-_Ноутбуки_из_Европы",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/topovyy_igrovoy_noutbuk_msi_gl72_6qd_2176578620"
+    },
+    "item_91": {
+        "title": "Игровой_ноутбук_MSI_MS-168A/CX623",
+        "time": "8 марта в 16:53",
+        "price": "15 700 ₽",
+        "seller_name": "ИНТРО_-_Ноутбуки_из_Европы",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_ms-168acx623_2176168304"
+    },
+    "item_92": {
+        "title": "MSI",
+        "time": "28 февраля в 20:56",
+        "price": "7 000 ₽",
+        "seller_name": "Влад",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_2058885812"
+    },
+    "item_93": {
+        "title": "MSI_Prestige_14_A11SC-080RU",
+        "time": "27 февраля в 09:39",
+        "price": "127 500 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_prestige_14_a11sc-080ru_2354354496"
+    },
+    "item_94": {
+        "title": "Игровой_ноутбук_msi_i7",
+        "time": "19 февраля в 20:28",
+        "price": "90 000 ₽",
+        "seller_name": "Владимир",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_i7_2313904290"
+    },
+    "item_95": {
+        "title": "Ультрабук_Asus_/_Ruzen_5_/_SSD_256_Gb_/_Ram_12_Gb",
+        "time": "11 марта в 17:50",
+        "price": "39 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/ultrabuk_asus_ruzen_5_ssd_256_gb_ram_12_gb_2355585067"
+    },
+    "item_96": {
+        "title": "Ноутбук_Игровой_/_Ноутбуки_б/у_MSI_Asus_HP_i7_i5",
+        "time": "6 марта в 20:18",
+        "price": "8 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_igrovoy_noutbuki_bu_msi_asus_hp_i7_i5_2163188512"
+    },
+    "item_97": {
+        "title": "MSI_на_intel_Core_i3",
+        "time": "2 марта в 13:27",
+        "price": "11 999 ₽",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_na_intel_core_i3_2168743071"
+    },
+    "item_98": {
+        "title": "Нетбук_msi",
+        "time": "22 февраля в 19:31",
+        "price": "4 999 ₽",
+        "seller_name": "Армина",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/netbuk_msi_2347228416"
+    },
+    "item_99": {
+        "title": "Ноутбук_MSI_на_i3_для_офисной_работы",
+        "time": "14 февраля в 09:55",
+        "price": "13 000 ₽",
+        "seller_name": "Александр_Ларионов",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_na_i3_dlya_ofisnoy_raboty_2306190594"
+    },
+    "item_100": {
+        "title": "MSI_Prestige_14_A11SC-078RU",
+        "time": "27 февраля в 09:39",
+        "price": "155 000 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_prestige_14_a11sc-078ru_2354210094"
+    },
+    "item_101": {
+        "title": "Игровой_ноутбук_MSI_GE75_Raider_10SFS-217RU",
+        "time": "27 февраля в 10:06",
+        "price": "175 000 ₽",
+        "seller_name": "Антон",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_ge75_raider_10sfs-217ru_2121951668"
+    },
+    "item_102": {
+        "title": "Ноутбук_MSI_PR210",
+        "time": "22 февраля в 03:48",
+        "price": "6 000 ₽",
+        "seller_name": "не_компания",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_pr210_1579817707"
+    },
+    "item_103": {
+        "title": "MSI_Pulse_GL66_11UCK-423XRU_156''_Grey",
+        "time": "27 февраля в 14:22",
+        "price": "175 900 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_pulse_gl66_11uck-423xru_156_grey_2290139617"
+    },
+    "item_104": {
+        "title": "MSI_Modern_15_A11SBU-836RU",
+        "time": "27 февраля в 09:40",
+        "price": "110 000 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_modern_15_a11sbu-836ru_2354088442"
+    },
+    "item_105": {
+        "title": "Ноутбук_MSI_GE70_2OC-236RU",
+        "time": "19 февраля в 16:05",
+        "price": "37 450 ₽",
+        "seller_name": "Гарантия_1_год!_Надёжные_ноутбуки_без_ремонта!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_ge70_2oc-236ru_2202095658"
+    },
+    "item_106": {
+        "title": "MSI_GE66_Raider_11UH-283RU_156''_Black",
+        "time": "22 февраля в 09:50",
+        "price": "438 890 ₽",
+        "seller_name": "MaxMarket_-_товары_для_работы_и_отдыха_с_быстрой_доставкой!",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_ge66_raider_11uh-283ru_156_black_2289955121"
+    },
+    "item_107": {
+        "title": "Для_3Ds_Max,_Zbrush,_Photoshop,_Adobe_Premier",
+        "time": "7 марта в 08:46",
+        "price": "21 000 ₽",
+        "seller_name": "Оля_Брянцева",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/dlya_3ds_max_zbrush_photoshop_adobe_premier_2331656814"
+    },
+    "item_108": {
+        "title": "Игровой_ноутбук_MSI_GE70",
+        "time": "25 февраля в 19:37",
+        "price": "37 000 ₽",
+        "seller_name": "Иван",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_ge70_2234455012"
+    },
+    "item_109": {
+        "title": "Офисный_Ноутбук_Asus_/_15.6_/_SSD-128Gb",
+        "time": "9 марта в 14:58",
+        "price": "10 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/ofisnyy_noutbuk_asus_15.6_ssd-128gb_2355156323"
+    },
+    "item_110": {
+        "title": "Ноутбук_MSI_/_15.6_/_GT-520",
+        "time": "2 марта в 11:11",
+        "price": "12 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_15.6_gt-520_2195876710"
+    },
+    "item_111": {
+        "title": "Игровой_ноутбук_msi",
+        "time": "20 февраля в 21:31",
+        "price": "64 000 ₽",
+        "seller_name": "Виталий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_2220578532"
+    },
+    "item_112": {
+        "title": "MSI/i5-2540m_4X_3.30GHz_4Х/GT520m_1gb_128bit",
+        "time": "19 февраля в 14:53",
+        "price": "14 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msii5-2540m_4x_3.30ghz_4hgt520m_1gb_128bit_2347543327"
+    },
+    "item_113": {
+        "title": "Ноутбук_MSI_Creator_15_A10SGS-029RU_15.6\"",
+        "time": "19 февраля в 21:38",
+        "price": "230 000 ₽",
+        "seller_name": "Собственник",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_creator_15_a10sgs-029ru_15.6_2363460537"
+    },
+    "item_114": {
+        "title": "MSI_15.6/i5-2540m_/две_карты/ram_4gb",
+        "time": "23 февраля в 16:00",
+        "price": "14 000 ₽",
+        "seller_name": "Дмитрий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/msi_15.6i5-2540m_dve_kartyram_4gb_2347775880"
+    },
+    "item_115": {
+        "title": "Ноутбук_/_Laptop_MSI_GT70_торг",
+        "time": "19 февраля в 12:17",
+        "price": "55 000 ₽",
+        "seller_name": "Василий",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_laptop_msi_gt70_torg_1893428844"
+    },
+    "item_116": {
+        "title": "Топовый_игровой_ноутбук_MSI_GF63_/_i7_/_512_SSD",
+        "time": "13 марта в 10:57",
+        "price": "150 000 ₽",
         "seller_name": "Роман",
         "link": "https://www.avito.ru/krasnodar/noutbuki/topovyy_igrovoy_noutbuk_msi_gf63_i7_512_ssd_2235539915"
+    },
+    "item_117": {
+        "title": "Ноутбук_Lenovo_/_15.6_Full-Hd_/_4_Ядра",
+        "time": "13 марта в 12:33",
+        "price": "33 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_full-hd_4_yadra_2355594384"
+    },
+    "item_118": {
+        "title": "Игровой_ноутбук_msi_i7",
+        "time": "23 февраля в 10:31",
+        "price": "75 000 ₽",
+        "seller_name": "Артём_Панкратов",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_msi_i7_2276445555"
+    },
+    "item_119": {
+        "title": "Ноутбук_MSI_MS-168A/CX623",
+        "time": "16 февраля в 11:44",
+        "price": "15 700 ₽",
+        "seller_name": "ИНТРО_-_Ноутбуки_из_Европы",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_msi_ms-168acx623_2176457289"
+    },
+    "item_120": {
+        "title": "Продам_ноутбук15.6\"_Ноутбук_MSI_GP66_Leopard_11UG",
+        "time": "5 марта в 22:29",
+        "price": "220 000 ₽",
+        "seller_name": "Сергей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/prodam_noutbuk15.6_noutbuk_msi_gp66_leopard_11ug_2313307650"
+    },
+    "item_121": {
+        "title": "Б/у_Ноутбук_MSI_GS70_2QE-419RU_(9S7-177316-419)",
+        "time": "22 февраля в 09:00",
+        "price": "57 430 ₽",
+        "seller_name": "SecondPC",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/bu_noutbuk_msi_gs70_2qe-419ru_9s7-177316-419_2300552522"
+    },
+    "item_122": {
+        "title": "Ноутбук_Hp_/_15.6_/_SSD_/_I3",
+        "time": "12 марта в 12:56",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_15.6_ssd_i3_2355267271"
+    },
+    "item_123": {
+        "title": "Ноутбук_Samsung_/_I7_/_SSD_/_15.6",
+        "time": "11 марта в 13:20",
+        "price": "28 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_samsung_i7_ssd_15.6_2354963465"
+    },
+    "item_124": {
+        "title": "Ноутбук_Asus_/_15.6_/_GT-610M_/_I3",
+        "time": "13 марта в 11:56",
+        "price": "13 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_15.6_gt-610m_i3_2355379048"
+    },
+    "item_125": {
+        "title": "Ноутбук_Acer_/_17.3_/_SSD_128",
+        "time": "13 марта в 11:56",
+        "price": "11 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_17.3_ssd_128_2355795363"
+    },
+    "item_126": {
+        "title": "Игровой_ноутбук",
+        "time": "вчера в 16:28",
+        "price": "60 000 ₽",
+        "seller_name": "андрей",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_2278015838"
+    },
+    "item_127": {
+        "title": "Ноутбук_Lenovo_/_i3_/_15.6_/_Nvidia_GT-720M",
+        "time": "12 марта в 12:55",
+        "price": "18 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i3_15.6_nvidia_gt-720m_2355666528"
+    },
+    "item_128": {
+        "title": "Ультрабук_Lenovo_/_i5-8Gn_/_SSD_/_14.0_IPS",
+        "time": "9 марта в 14:58",
+        "price": "34 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/ultrabuk_lenovo_i5-8gn_ssd_14.0_ips_2355121148"
+    },
+    "item_129": {
+        "title": "Ноутбук_Lenovo_/_i5_/_15.6",
+        "time": "11 марта в 12:28",
+        "price": "13 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i5_15.6_2355440737"
+    },
+    "item_130": {
+        "title": "Ноутбук_бу_MSI",
+        "time": "14 февраля в 17:33",
+        "price": "3 000 ₽",
+        "seller_name": "Aza",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_msi_2288604193"
+    },
+    "item_131": {
+        "title": "Ноутбук_Dell_/_15.6_/_GT-820M",
+        "time": "11 марта в 12:24",
+        "price": "22 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_15.6_gt-820m_2354962854"
+    },
+    "item_132": {
+        "title": "Ноутбук_Lenovo_/_15.6_/_AMD-A10",
+        "time": "11 марта в 13:25",
+        "price": "29 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_amd-a10_2355324923"
+    },
+    "item_133": {
+        "title": "Ноутбук_/_I5-8250U_/_MX-250_2Gb_/_15.6_IPS",
+        "time": "13 марта в 11:56",
+        "price": "38 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_i5-8250u_mx-250_2gb_15.6_ips_2355653860"
+    },
+    "item_134": {
+        "title": "Ноутбук_HP_/_Intel_Core_i5-6200U",
+        "time": "11 марта в 14:28",
+        "price": "32 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_intel_core_i5-6200u_2355411556"
+    },
+    "item_135": {
+        "title": "Ноутбук_Acer_/_15.6_/_AMD_A10-4600M",
+        "time": "12 марта в 12:59",
+        "price": "23 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_15.6_amd_a10-4600m_2355604446"
+    },
+    "item_136": {
+        "title": "Ноутбук_бу_/_Офис_/_Удаленка",
+        "time": "13 марта в 11:56",
+        "price": "9 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_ofis_udalenka_2355154868"
+    },
+    "item_137": {
+        "title": "Ноутбук_Samsung_/_Intel_core_i3",
+        "time": "11 марта в 12:27",
+        "price": "16 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_samsung_intel_core_i3_2354908204"
+    },
+    "item_138": {
+        "title": "Lenovo_/_AMD_FX-7500_/_8Gb_/_15.6_Full-HD",
+        "time": "11 марта в 15:29",
+        "price": "28 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/lenovo_amd_fx-7500_8gb_15.6_full-hd_2355099935"
+    },
+    "item_139": {
+        "title": "Ноутбук_Dell_/_i5_/_15.6_/_SSD_240Gb_/_2Gb_Vram",
+        "time": "13 марта в 12:33",
+        "price": "34 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i5_15.6_ssd_240gb_2gb_vram_2355443766"
+    },
+    "item_140": {
+        "title": "Игровой_Ноутбук_Dell_/_I5_/_SSD_/_4Gb_Видео",
+        "time": "9 марта в 14:59",
+        "price": "39 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_dell_i5_ssd_4gb_video_2354976234"
+    },
+    "item_141": {
+        "title": "Ноутбук_Dell_/_I3-8Gn_/_8Gb_DDR4_/_SSD-256Gb",
+        "time": "9 марта в 14:59",
+        "price": "27 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i3-8gn_8gb_ddr4_ssd-256gb_2354920706"
+    },
+    "item_142": {
+        "title": "Ноутбук_для_Работы_/_Удаленка",
+        "time": "9 марта в 14:59",
+        "price": "12 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dlya_raboty_udalenka_2355625420"
+    },
+    "item_143": {
+        "title": "Ноутбук_Dell_/_AMD_A10-9Gn_/_8Gb_Ram_/_4Gb_vram",
+        "time": "9 марта в 14:59",
+        "price": "33 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_amd_a10-9gn_8gb_ram_4gb_vram_2355371153"
+    },
+    "item_144": {
+        "title": "Ноутбук_бу",
+        "time": "27 февраля в 16:26",
+        "price": "11 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_2227407311"
+    },
+    "item_145": {
+        "title": "Ноутбук_asus_/_MX-110_2Gb_gddr5",
+        "time": "18 февраля в 10:59",
+        "price": "21 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_mx-110_2gb_gddr5_2355351797"
+    },
+    "item_146": {
+        "title": "Ноутбук_Lenovo_/_i3_/_15.6_/_SSD_240Gb",
+        "time": "9 марта в 14:58",
+        "price": "17 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i3_15.6_ssd_240gb_2355400897"
+    },
+    "item_147": {
+        "title": "Игровой_Ноутбук",
+        "time": "7 марта в 12:44",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_2291515908"
+    },
+    "item_148": {
+        "title": "Игровой_Ноутбук_Dell_i5-8250U",
+        "time": "7 марта в 12:43",
+        "price": "37 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_dell_i5-8250u_2291794205"
+    },
+    "item_149": {
+        "title": "Ат5_-_Ноутбук_MSI_Alpha_15_A3DDK",
+        "time": "12 марта в 12:34",
+        "price": "85 000 ₽",
+        "seller_name": "Комиссионный_магазин_Победа_Краснодар",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/at5_-_noutbuk_msi_alpha_15_a3ddk_2271508846"
+    },
+    "item_150": {
+        "title": "Ноутбук_Lenovo_/_15.6_Full-HD",
+        "time": "7 марта в 18:44",
+        "price": "21 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_full-hd_2227499391"
+    },
+    "item_151": {
+        "title": "Ноутбук_Asus_/_15.6_/_4Gb_Ram_/_Для_Работы",
+        "time": "9 марта в 14:59",
+        "price": "12 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_15.6_4gb_ram_dlya_raboty_2355433071"
+    },
+    "item_152": {
+        "title": "Ноутбук_Lenovo_/_Офисный",
+        "time": "18 февраля в 11:00",
+        "price": "8 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_ofisnyy_2355158177"
+    },
+    "item_153": {
+        "title": "Ноутбук_HP/_R5_M330_/_SSD",
+        "time": "27 февраля в 16:26",
+        "price": "18 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_r5_m330_ssd_2227287339"
+    },
+    "item_154": {
+        "title": "Ноутбук_Acer_i5_/_630M",
+        "time": "27 февраля в 16:26",
+        "price": "16 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_i5_630m_2227292276"
+    },
+    "item_155": {
+        "title": "Ноутбук_Asus_/_12_Гигов_/_940MX",
+        "time": "27 февраля в 16:26",
+        "price": "29 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_12_gigov_940mx_2227813719"
+    },
+    "item_156": {
+        "title": "Ноутбук_HP_4_Ядра_до_2.8GHz_/_HDD_750Gb",
+        "time": "26 февраля в 13:18",
+        "price": "18 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_4_yadra_do_2.8ghz_hdd_750gb_2227469346"
+    },
+    "item_157": {
+        "title": "Игровой_Ноутбук_Asus_/_17.3_/_i7_/_4Gb",
+        "time": "6 марта в 11:52",
+        "price": "37 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_asus_17.3_i7_4gb_2227070326"
+    },
+    "item_158": {
+        "title": "Игровой_HP_/_I3_/_SSD_/15.6_Full-HD",
+        "time": "18 февраля в 11:02",
+        "price": "21 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_hp_i3_ssd_15.6_full-hd_2355152153"
+    },
+    "item_159": {
+        "title": "Ноутбук_HP_/_4_Ядра_/_Full-HD",
+        "time": "18 февраля в 11:03",
+        "price": "22 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_4_yadra_full-hd_2355440662"
+    },
+    "item_160": {
+        "title": "Игровой_Ноутбук_Dell_/_I5-4Gn_/_8_Gb_Ram",
+        "time": "9 марта в 14:58",
+        "price": "24 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_dell_i5-4gn_8_gb_ram_2323651666"
+    },
+    "item_161": {
+        "title": "Ноутбук_Dell_/_SSD_256_Gb_/_i5_/_8_Ram",
+        "time": "9 марта в 14:58",
+        "price": "27 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_ssd_256_gb_i5_8_ram_2323280167"
+    },
+    "item_162": {
+        "title": "Ноутбук_Asus_офисный",
+        "time": "27 февраля в 16:26",
+        "price": "16 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_ofisnyy_2227488741"
+    },
+    "item_163": {
+        "title": "Ноутбук_Lenovo_17.3_/_2_Ядра_/_4Gb",
+        "time": "6 марта в 11:52",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_17.3_2_yadra_4gb_2226912331"
+    },
+    "item_164": {
+        "title": "Игровой_Ноутбук_Lenovo_/_I5_/_GT-740_/_JBL",
+        "time": "5 марта в 12:34",
+        "price": "24 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_lenovo_i5_gt-740_jbl_2227483152"
+    },
+    "item_165": {
+        "title": "Игровой_Ноутбук_Lenovo_/_I5_/_GT-740_/_JBL",
+        "time": "5 марта в 12:34",
+        "price": "24 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_lenovo_i5_gt-740_jbl_2227483152"
+    },
+    "item_166": {
+        "title": "Ноутбук_Asus_/_15.6_/_Core_I3_/_GT-820",
+        "time": "7 марта в 12:43",
+        "price": "18 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_15.6_core_i3_gt-820_2226989016"
+    },
+    "item_167": {
+        "title": "Ноутбук",
+        "time": "3 марта в 16:53",
+        "price": "68 000 ₽",
+        "seller_name": "Aram_Magakyan",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_2229374694"
+    },
+    "item_168": {
+        "title": "Ноутбук_Asus_/_Intel_i3_/_17.3",
+        "time": "5 марта в 12:34",
+        "price": "17 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_intel_i3_17.3_2227415237"
+    },
+    "item_169": {
+        "title": "Ноутбук_офисный",
+        "time": "7 марта в 12:44",
+        "price": "8 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_ofisnyy_2291872511"
+    },
+    "item_170": {
+        "title": "Игровой_Ноутбук_Lenovo_i5_/_530_2Gb",
+        "time": "26 февраля в 13:18",
+        "price": "33 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_lenovo_i5_530_2gb_2227686269"
+    },
+    "item_171": {
+        "title": "Ноутбук_Lenovo",
+        "time": "7 марта в 12:44",
+        "price": "12 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2291135946"
+    },
+    "item_172": {
+        "title": "Ноутбук_бу_/_4_Ядра_/_6Gb",
+        "time": "5 марта в 12:34",
+        "price": "10 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_4_yadra_6gb_2227615274"
+    },
+    "item_173": {
+        "title": "Ноутбук_HP_/_14.0_/_I5-4200M",
+        "time": "5 марта в 12:35",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_14.0_i5-4200m_2227141844"
+    },
+    "item_174": {
+        "title": "Ноутбук_Hp",
+        "time": "7 марта в 12:43",
+        "price": "33 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2290906525"
+    },
+    "item_175": {
+        "title": "Ноутбук_Acer_/_i5_/_GT_710M_/_6Gb",
+        "time": "27 февраля в 16:26",
+        "price": "18 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_i5_gt_710m_6gb_2227263162"
+    },
+    "item_176": {
+        "title": "Ноутбук_Dell_i7",
+        "time": "7 марта в 18:44",
+        "price": "28 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i7_2291818427"
+    },
+    "item_177": {
+        "title": "Ноутбук_Lenovo_/_I5_/_15.6",
+        "time": "5 марта в 12:34",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i5_15.6_2227747339"
+    },
+    "item_178": {
+        "title": "Мощный_Ноутбук_HP",
+        "time": "7 марта в 12:43",
+        "price": "44 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_noutbuk_hp_2290931731"
+    },
+    "item_179": {
+        "title": "Ноутбук_Lenovo_SSD_240Gb",
+        "time": "27 февраля в 16:26",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_ssd_240gb_2227193080"
+    },
+    "item_180": {
+        "title": "Игровые_ноутбуки_Ryzen/Intel/GeForce_GTX/RTX_с_SSD",
+        "time": "7 марта в 13:30",
+        "price": "Цена не указана",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutbuki_ryzenintelgeforce_gtxrtx_s_ssd_2328694486"
+    },
+    "item_181": {
+        "title": "Ноутбук_Lenovo",
+        "time": "27 февраля в 16:26",
+        "price": "13 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2227005432"
+    },
+    "item_182": {
+        "title": "Ноутбук_HP",
+        "time": "26 февраля в 13:17",
+        "price": "14 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2227092824"
+    },
+    "item_183": {
+        "title": "Игровой_Ноутбук_HP_Core_i3",
+        "time": "26 февраля в 13:17",
+        "price": "22 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_hp_core_i3_2227071174"
+    },
+    "item_184": {
+        "title": "Ноутбук_Acer",
+        "time": "28 февраля в 12:40",
+        "price": "11 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_2226966701"
+    },
+    "item_185": {
+        "title": "Ноутбук_с_установленным_exocad_Galway_7754",
+        "time": "9 марта в 07:19",
+        "price": "Цена не указана",
+        "seller_name": "Александр",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_s_ustanovlennym_exocad_galway_7754_2322303666"
+    },
+    "item_186": {
+        "title": "Мощный_игровой_компьютер_i7_GTX",
+        "time": "22 февраля в 16:31",
+        "price": "60 000 ₽",
+        "seller_name": "Артем",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/moschnyy_igrovoy_kompyuter_i7_gtx_2346447834"
+    },
+    "item_187": {
+        "title": "Ноутбук_HP_/_15.6_/_SSD-128Gb_/_HDD",
+        "time": "27 февраля в 16:26",
+        "price": "23 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_15.6_ssd-128gb_hdd_2227289232"
+    },
+    "item_188": {
+        "title": "Игровой_Ноутбук_/_6Gb_/_2Gb_/_4_Ядра",
+        "time": "27 февраля в 16:26",
+        "price": "18 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_6gb_2gb_4_yadra_2227555324"
+    },
+    "item_189": {
+        "title": "Игровые_ноутубки_/_GTX_/_Core_i7_/_гарантия",
+        "time": "9 марта в 18:30",
+        "price": "Цена не указана",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovye_noutubki_gtx_core_i7_garantiya_2328261473"
+    },
+    "item_190": {
+        "title": "Ноутбук_/_Игровой_Ноутбук",
+        "time": "6 марта в 20:19",
+        "price": "21 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_igrovoy_noutbuk_2226925823"
+    },
+    "item_191": {
+        "title": "Ноутбук_asus",
+        "time": "2 марта в 11:11",
+        "price": "9 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2258995587"
+    },
+    "item_192": {
+        "title": "Ноутбук_hp_15bw021",
+        "time": "25 февраля в 09:40",
+        "price": "40 000 ₽",
+        "seller_name": "Равиль_Абдуллин",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_15bw021_2285295517"
+    },
+    "item_193": {
+        "title": "Ноутбук_Dell_/_i3_/_15.6",
+        "time": "2 марта в 11:11",
+        "price": "16 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i3_15.6_2258919285"
+    },
+    "item_194": {
+        "title": "Ноутбук_Asus",
+        "time": "2 марта в 11:11",
+        "price": "17 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2258934328"
+    },
+    "item_195": {
+        "title": "Ноутбук_Lenovo_/_8Gb_/_удаленка_/_учеба",
+        "time": "2 марта в 17:11",
+        "price": "19 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_8gb_udalenka_ucheba_2323646623"
+    },
+    "item_196": {
+        "title": "HP_Laptop_15s_IPS/SSD512/Iris_Xe_Graphics",
+        "time": "25 февраля в 18:59",
+        "price": "69 990 ₽",
+        "seller_name": "ДЕВАЙСОВО",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/hp_laptop_15s_ipsssd512iris_xe_graphics_2332286328"
+    },
+    "item_197": {
+        "title": "Ноутбук_/_15.6_Ips_Full-Hd",
+        "time": "21 февраля в 10:03",
+        "price": "10 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_15.6_ips_full-hd_2258989846"
+    },
+    "item_198": {
+        "title": "Игровой_Ноутбук_HP",
+        "time": "2 марта в 11:19",
+        "price": "16 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_hp_2259584364"
+    },
+    "item_199": {
+        "title": "Игровой_Ноутбук_Asus/GeForce_940MX",
+        "time": "2 марта в 11:11",
+        "price": "38 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_asusgeforce_940mx_2195827067"
+    },
+    "item_200": {
+        "title": "Ноутбуки_Intel_Core_i3_/i5_/i7",
+        "time": "28 февраля в 12:41",
+        "price": "19 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuki_intel_core_i3_i5_i7_2259029807"
+    },
+    "item_201": {
+        "title": "Ноутбук",
+        "time": "28 февраля в 12:40",
+        "price": "11 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_2227794583"
+    },
+    "item_202": {
+        "title": "Ноутбук_Acer_Intel_N3350_4Gb_500Gb_11.6\"",
+        "time": "18 февраля в 18:14",
+        "price": "13 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_intel_n3350_4gb_500gb_11.6_2355005380"
+    },
+    "item_203": {
+        "title": "Ультрабук_Lenovo_/_15.6_Full-HD",
+        "time": "21 февраля в 10:03",
+        "price": "22 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/ultrabuk_lenovo_15.6_full-hd_2258952601"
+    },
+    "item_204": {
+        "title": "Ноутбук_Samsung",
+        "time": "27 февраля в 16:26",
+        "price": "20 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_samsung_2227521140"
+    },
+    "item_205": {
+        "title": "Ноутбук_HP_Intel_N5000_17.3\"",
+        "time": "21 февраля в 13:27",
+        "price": "28 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_intel_n5000_17.3_2322934265"
+    },
+    "item_206": {
+        "title": "Ноутбук_всех_моделей_для_игр_и_работы",
+        "time": "28 февраля в 10:03",
+        "price": "Цена не указана",
+        "seller_name": "Рифат_-_всё_по_честному!_Могу_купить_ваш_ноутбук",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_vseh_modeley_dlya_igr_i_raboty_2136018791"
+    },
+    "item_207": {
+        "title": "Ноутбук_HP_/_I5_/_GT-630_2Gb_/_Гарантия",
+        "time": "27 февраля в 16:26",
+        "price": "21 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_i5_gt-630_2gb_garantiya_2227012178"
+    },
+    "item_208": {
+        "title": "Ноутбук_бу",
+        "time": "28 февраля в 12:41",
+        "price": "13 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_2227413071"
+    },
+    "item_209": {
+        "title": "Ноутбук_бу_/_15.6_/_4_Ядра_AMD_A6",
+        "time": "28 февраля в 12:41",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_15.6_4_yadra_amd_a6_2259738609"
+    },
+    "item_210": {
+        "title": "Ноутбук_бу_/_15.6_/_Гарантия",
+        "time": "21 февраля в 12:32",
+        "price": "10 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_15.6_garantiya_2227376088"
+    },
+    "item_211": {
+        "title": "Ноутбук_lenovo_/_15.6_/_6Gb_DDr4",
+        "time": "24 февраля в 11:43",
+        "price": "20 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_6gb_ddr4_2227600649"
+    },
+    "item_212": {
+        "title": "Ноутбук_Acer",
+        "time": "28 февраля в 12:40",
+        "price": "16 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_2227538472"
+    },
+    "item_213": {
+        "title": "Ноутбук_/_15.6_/_1C_/_Удаленка",
+        "time": "28 февраля в 12:41",
+        "price": "15 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_15.6_1c_udalenka_2259348427"
+    },
+    "item_214": {
+        "title": "Ноутбук_Asus",
+        "time": "2 марта в 11:11",
+        "price": "16 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2195790271"
+    },
+    "item_215": {
+        "title": "Ноутбук_Lenovo/_Core_i3-7100U/_Intel_HD/8Gb",
+        "time": "2 марта в 11:11",
+        "price": "32 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_core_i3-7100u_intel_hd8gb_2195247677"
+    },
+    "item_216": {
+        "title": "Ноутбук_Lenovo_/_15.6_/_Intel_Core_i3",
+        "time": "28 февраля в 12:40",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_intel_core_i3_2259201183"
+    },
+    "item_217": {
+        "title": "Ноутбук_Acer",
+        "time": "28 февраля в 12:40",
+        "price": "17 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_2227334020"
+    },
+    "item_218": {
+        "title": "Ноутбук_Lenovo_/_1Tb",
+        "time": "28 февраля в 12:40",
+        "price": "19 900 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_1tb_2227575704"
+    },
+    "item_219": {
+        "title": "Ноутбук_Lenovo",
+        "time": "28 февраля в 10:19",
+        "price": "17 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2258975000"
+    },
+    "item_220": {
+        "title": "Ноутбук_HP",
+        "time": "28 февраля в 10:26",
+        "price": "12 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2227729753"
+    },
+    "item_221": {
+        "title": "Acer_Ноутбук_в_Офис",
+        "time": "27 февраля в 16:26",
+        "price": "12 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/acer_noutbuk_v_ofis_2227321484"
+    },
+    "item_222": {
+        "title": "Ноутбук_Lenovo",
+        "time": "28 февраля в 12:40",
+        "price": "11 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2195778287"
+    },
+    "item_223": {
+        "title": "Ноутбук_бу",
+        "time": "2 марта в 11:11",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_2259062439"
+    },
+    "item_224": {
+        "title": "Ноутбук_HP_Athlon_3050u_8Gb_SSD_256Gb_IPS",
+        "time": "19 февраля в 19:12",
+        "price": "32 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_athlon_3050u_8gb_ssd_256gb_ips_2322948254"
+    },
+    "item_225": {
+        "title": "Ноутбук_Lenovo_бу",
+        "time": "28 февраля в 12:41",
+        "price": "14 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_bu_2227688253"
+    },
+    "item_226": {
+        "title": "Ноутбук_Lenovo_i3_/_920M",
+        "time": "28 февраля в 10:19",
+        "price": "28 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i3_920m_2163522378"
+    },
+    "item_227": {
+        "title": "Ноутбук_HP",
+        "time": "28 февраля в 12:41",
+        "price": "13 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2195179334"
+    },
+    "item_228": {
+        "title": "Ноутбук_Lenovo",
+        "time": "23 февраля в 13:35",
+        "price": "24 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2227861317"
+    },
+    "item_229": {
+        "title": "Ноутбук_Acer",
+        "time": "26 февраля в 13:18",
+        "price": "13 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_2227666879"
+    },
+    "item_230": {
+        "title": "Ноутбук_Lenovo",
+        "time": "27 февраля в 16:26",
+        "price": "13 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_2227390666"
+    },
+    "item_231": {
+        "title": "Ноутбук_б/у_15.6”_/_до_2,49GHz_/_HDD_500Gb_/_4Gb",
+        "time": "28 февраля в 12:40",
+        "price": "13 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_15.6_do_249ghz_hdd_500gb_4gb_2195751626"
+    },
+    "item_232": {
+        "title": "Ноутбук_Lenovo_17.3_/_G770_/_i5",
+        "time": "22 февраля в 10:05",
+        "price": "17 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_17.3_g770_i5_2323164367"
+    },
+    "item_233": {
+        "title": "Ноутбук_Asus",
+        "time": "28 февраля в 12:40",
+        "price": "14 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2227264858"
+    },
+    "item_234": {
+        "title": "Игровой_Ноутбук_/_I5_/_17.3_/_GT-940_2Gb",
+        "time": "24 февраля в 11:43",
+        "price": "28 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_i5_17.3_gt-940_2gb_2227033132"
+    },
+    "item_235": {
+        "title": "Ноутбук_Asus_A4_9125_DDR4_4Gb_500Gb_15.6\"",
+        "time": "18 февраля в 09:01",
+        "price": "19 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_a4_9125_ddr4_4gb_500gb_15.6_2355778488"
+    },
+    "item_236": {
+        "title": "Ноутбук_Lenovo_/_Core_i3",
+        "time": "27 февраля в 16:26",
+        "price": "23 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_core_i3_2195373076"
+    },
+    "item_237": {
+        "title": "Ноутбук_Acer_для_офиса_или_школы",
+        "time": "26 февраля в 13:18",
+        "price": "15 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_dlya_ofisa_ili_shkoly_2227581871"
+    },
+    "item_238": {
+        "title": "Ноутбук_Asus_/_асус_/_рассрочка",
+        "time": "21 февраля в 10:03",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_asus_rassrochka_2291645364"
+    },
+    "item_239": {
+        "title": "Ноутбук_бу_/_Dell_/_I3-6Gn_/_8_Gb_DDR4",
+        "time": "24 февраля в 11:43",
+        "price": "21 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_dell_i3-6gn_8_gb_ddr4_2227357314"
+    },
+    "item_240": {
+        "title": "Игровой_Ноутбук_Acer_/_i5_/_940_MX_/_SSD",
+        "time": "22 февраля в 10:05",
+        "price": "33 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_acer_i5_940_mx_ssd_2259801630"
+    },
+    "item_241": {
+        "title": "Ноутбук_Asus",
+        "time": "28 февраля в 10:01",
+        "price": "13 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2195511932"
+    },
+    "item_242": {
+        "title": "Ноутбук_HP",
+        "time": "27 февраля в 16:26",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2195380127"
+    },
+    "item_243": {
+        "title": "Ноутбук_HP_/_I5_/_SSD-256_/_6_Gb_/_Win_10",
+        "time": "22 февраля в 17:42",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_i5_ssd-256_6_gb_win_10_2259554158"
+    },
+    "item_244": {
+        "title": "Ноутбук_Acer_/_Core_i5_/_Gt-630_/_6_Gb_Ram",
+        "time": "25 февраля в 13:14",
+        "price": "17 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_core_i5_gt-630_6_gb_ram_2194918703"
+    },
+    "item_245": {
+        "title": "Ноутбук_Lenovo_/_i5_/_SSD_/_Гарантия",
+        "time": "24 февраля в 11:43",
+        "price": "26 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i5_ssd_garantiya_2227150118"
+    },
+    "item_246": {
+        "title": "Ноутбук_Dell_/_i7_/_игровой",
+        "time": "21 февраля в 10:03",
+        "price": "24 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i7_igrovoy_2291020122"
+    },
+    "item_247": {
+        "title": "Ноутбук_Dell",
+        "time": "21 февраля в 12:32",
+        "price": "16 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_2259605487"
+    },
+    "item_248": {
+        "title": "Ноутбук_Samsung_/_I3_/_15.6",
+        "time": "21 февраля в 12:32",
+        "price": "10 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_samsung_i3_15.6_2258966276"
+    },
+    "item_249": {
+        "title": "Ноутбук_Dell_i5-8250_/_8Gb_/_ssd",
+        "time": "21 февраля в 10:03",
+        "price": "37 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i5-8250_8gb_ssd_2291073997"
+    },
+    "item_250": {
+        "title": "Ноутбук_HP_/_15.6_/_SSD_/_8_Gb",
+        "time": "22 февраля в 17:42",
+        "price": "22 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_15.6_ssd_8_gb_2227264956"
+    },
+    "item_251": {
+        "title": "Ноутбук_Lenovo_17.3_/_G770_/_i5",
+        "time": "22 февраля в 10:05",
+        "price": "26 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_17.3_g770_i5_2323706361"
+    },
+    "item_252": {
+        "title": "Ноутбук_бу_/_4_ядра_/_6Gb_/_SSD",
+        "time": "21 февраля в 12:32",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_4_yadra_6gb_ssd_2259436640"
+    },
+    "item_253": {
+        "title": "Ноутбук_офисный",
+        "time": "25 февраля в 13:14",
+        "price": "12 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_ofisnyy_2195749009"
+    },
+    "item_254": {
+        "title": "Ноутбук_Packard_Bell_Intel_N3700_4Gb_500Gb",
+        "time": "22 февраля в 18:15",
+        "price": "17 990 ₽",
+        "seller_name": "ЦифраКом_-_магазин_ноутбуков_с_гарантией",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_packard_bell_intel_n3700_4gb_500gb_2355599570"
+    },
+    "item_255": {
+        "title": "Ноутбук_Dell_/_i3_/_SSD_/_HDD",
+        "time": "22 февраля в 17:43",
+        "price": "18 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i3_ssd_hdd_2227269087"
+    },
+    "item_256": {
+        "title": "Ноутбук_Lenovo_/_Core_i5_/_8Gb",
+        "time": "24 февраля в 11:43",
+        "price": "21 490 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_core_i5_8gb_2195552379"
+    },
+    "item_257": {
+        "title": "Ноутбук_Lenovo_/_рассрочка_/_кредит",
+        "time": "21 февраля в 10:03",
+        "price": "16 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_rassrochka_kredit_2290918107"
+    },
+    "item_258": {
+        "title": "Ноутбук_Acer",
+        "time": "25 февраля в 13:14",
+        "price": "15 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_2195820122"
+    },
+    "item_259": {
+        "title": "Ноутбук_Asus",
+        "time": "24 февраля в 11:43",
+        "price": "12 240 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2195046699"
+    },
+    "item_260": {
+        "title": "Офисный_ноутбук_Lenovo",
+        "time": "24 февраля в 11:43",
+        "price": "12 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/ofisnyy_noutbuk_lenovo_2227837647"
+    },
+    "item_261": {
+        "title": "Ноутбук_Acer_/_Core_I5_/_SSD",
+        "time": "21 февраля в 10:03",
+        "price": "27 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_acer_core_i5_ssd_2226965707"
+    },
+    "item_262": {
+        "title": "HP_250_G5_i3_/_1С_/_удаленка",
+        "time": "21 февраля в 10:03",
+        "price": "18 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/hp_250_g5_i3_1s_udalenka_2291774300"
+    },
+    "item_263": {
+        "title": "Ноутбук_HP_/_Удаленка_/_1C_/_Школа",
+        "time": "21 февраля в 10:03",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_udalenka_1c_shkola_2227401875"
+    },
+    "item_264": {
+        "title": "Ноутбук_Lenovo_/_15.6_/_HDD-500Gb_/_HD-520",
+        "time": "24 февраля в 11:43",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_15.6_hdd-500gb_hd-520_2227672453"
+    },
+    "item_265": {
+        "title": "Ноутбук_Asus_/_4_Ядра_/_SSD",
+        "time": "22 февраля в 17:42",
+        "price": "19 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_4_yadra_ssd_2227622040"
+    },
+    "item_266": {
+        "title": "Ноутбук_бу_/_Ноутбук_для_Удаленки",
+        "time": "21 февраля в 10:03",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_bu_noutbuk_dlya_udalenki_2227580384"
+    },
+    "item_267": {
+        "title": "Ноутбук_HP_250_/_i3_/_гарантия",
+        "time": "22 февраля в 10:05",
+        "price": "19 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_250_i3_garantiya_2323291477"
+    },
+    "item_268": {
+        "title": "Ноутбук_Lenovo_/_AMD_A6_/_15.6",
+        "time": "21 февраля в 10:03",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_amd_a6_15.6_2258934772"
+    },
+    "item_269": {
+        "title": "Ноутбук_Dell_i5-8250_/_8Gb_/_ssd",
+        "time": "21 февраля в 10:03",
+        "price": "37 888 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_i5-8250_8gb_ssd_2291702823"
+    },
+    "item_270": {
+        "title": "Ноутбук_Lenovo_/_i3_/_6Gb_/_Гарантия",
+        "time": "21 февраля в 10:03",
+        "price": "16 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_i3_6gb_garantiya_2258951226"
+    },
+    "item_271": {
+        "title": "Ноутбук_Dell_/_рассрочка_/_кредит_/_1с_/_удаленка",
+        "time": "22 февраля в 10:05",
+        "price": "29 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_rassrochka_kredit_1s_udalenka_2323821378"
+    },
+    "item_272": {
+        "title": "Ноутбук_Lenovo_320_/_1с_/_удаленка",
+        "time": "21 февраля в 10:03",
+        "price": "26 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_lenovo_320_1s_udalenka_2291660978"
+    },
+    "item_273": {
+        "title": "Ноутбук_HP",
+        "time": "21 февраля в 12:32",
+        "price": "19 900 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_2258922045"
+    },
+    "item_274": {
+        "title": "Ноутбук_Dell_/_учеба_/_Удаленка",
+        "time": "21 февраля в 10:03",
+        "price": "13 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_ucheba_udalenka_2291856864"
+    },
+    "item_275": {
+        "title": "Ноутбук_HP_250_G5_/_для_офиса_i3_/_ssd_256",
+        "time": "21 февраля в 10:03",
+        "price": "17 499 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_250_g5_dlya_ofisa_i3_ssd_256_2291287826"
+    },
+    "item_276": {
+        "title": "Игровой_Ноутбук_Asus_/Core_i5_/GeForce_740M_/SSD",
+        "time": "21 февраля в 12:32",
+        "price": "26 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/igrovoy_noutbuk_asus_core_i5_geforce_740m_ssd_2195859192"
+    },
+    "item_277": {
+        "title": "Ноутбук_Dell_/_учеба_/_Удаленка",
+        "time": "21 февраля в 10:03",
+        "price": "12 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_ucheba_udalenka_2291418754"
+    },
+    "item_278": {
+        "title": "Ноутбук_Dell_Inspiron_/_i7_/_8гб",
+        "time": "21 февраля в 10:03",
+        "price": "24 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dell_inspiron_i7_8gb_2291493510"
+    },
+    "item_279": {
+        "title": "Ноутбук_DNS_/_I5_/_GT-520_/_15.6",
+        "time": "21 февраля в 10:03",
+        "price": "14 999 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_dns_i5_gt-520_15.6_2259338319"
+    },
+    "item_280": {
+        "title": "Ноутбук_Asus/_Core_i3",
+        "time": "21 февраля в 10:03",
+        "price": "23 990 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_core_i3_2195560167"
+    },
+    "item_281": {
+        "title": "Ноутбук_Hp_/_15.6_/_Radeon_6700M_gddr5",
+        "time": "16 февраля в 17:04",
+        "price": "19 500 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_hp_15.6_radeon_6700m_gddr5_2259735239"
+    },
+    "item_282": {
+        "title": "Ноутбук_asus",
+        "time": "16 февраля в 17:04",
+        "price": "27 000 ₽",
+        "seller_name": "LAPTOPS-CENTRE",
+        "link": "https://www.avito.ru/krasnodar/noutbuki/noutbuk_asus_2259155208"
     }
 }
